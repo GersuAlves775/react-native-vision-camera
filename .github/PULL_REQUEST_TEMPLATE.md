@@ -9,7 +9,7 @@
 <!--
   Enter a short description on what this pull-request does.
   Examples:
-    This PR adds support for the HEVC format.
+This PR adds support for the HEVC format.
     This PR fixes a "unsupported device" error on iPhone 8 and below.
     This PR fixes a typo in a CameraError.
     This PR adds support for Quadruple Cameras.

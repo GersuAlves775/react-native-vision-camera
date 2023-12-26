@@ -1,0 +1,22 @@
+{
+  "name": "@tradio/camera",
+  "version": "1.0.0",
+  "description": "<a href=\"https://margelo.io\">   <picture>     <source media=\"(prefers-color-scheme: dark)\" srcset=\"./docs/static/img/banner-dark.png\" />     <source media=\"(prefers-color-scheme: light)\" srcset=\"./docs/static/img/banner-light.png\" />     <img alt=\"VisionCamera\" src=\"./docs/static/img/banner-light.png\" />   </picture> </a>",
+  "main": "index.ts",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gersualves775: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@github.com/GersuAlves775/react-native-vision-camera.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GersuAlves775/react-native-vision-camera/issues"
+  },
+  "homepage": "https://github.com/GersuAlves775/react-native-vision-camera#readme"
+}
